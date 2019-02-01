@@ -60,4 +60,18 @@ a:hover {
 
 }
 
+button {
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.bouton_dislike {
+ color : #bd0f0f;
+}
+
+.bouton_like {
+ color : #0a6115;
+}
+
 
