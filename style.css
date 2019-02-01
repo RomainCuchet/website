@@ -4,12 +4,14 @@ body{
   font-size: 25px;
   font-family: Helvetica;
 }
+
 h1{
   font-family: Courier;
   color:#CBA328;
   font-weight: lighter;
   font-size: 60px;
 }
+
 h2 {
   font-family: Courier;
   color: #CBA328;
@@ -17,7 +19,6 @@ h2 {
   font-size: 40px;
 }
 
-}
 a:hover {
   text-decoration: none;
   color: purple;
@@ -60,4 +61,16 @@ a:hover {
 
 }
 
+button {
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+}
 
+.button_dislike {
+ color : #bd0f0f;
+}
+
+.button_like {
+ color : #0a6115;
+}
